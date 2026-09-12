@@ -138,9 +138,7 @@ ThreadCount Infinity — AI-powered textile scanning and thread analysis through
 ### Project Demo
 # Video
 
-
-
-
+https://github.com/hrithiksrijit/ThreadCount---Infinity/blob/main/ThreadCounter%20Demo%20Video%20(1).mp4
 
 # Additional Demos
 http://localhost:8501/
